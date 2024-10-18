@@ -1,7 +1,8 @@
 -hi my name is Marcelo
--16y
+-19y
 -sneakerhead since 2017
 -basketball comboboard
--sneakerhouse._ instagram
--Lakers Lover
+-python and C developer
+-Deutch studant
+-unicamp 2024
 
